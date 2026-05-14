@@ -1,0 +1,4 @@
+para incorrecto desde 1 hasta 10 hacer {
+  imprimir(cadena sin comillas y sentencia sin punto y coma)
+  salir
+}
