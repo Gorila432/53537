@@ -1,4 +1,0 @@
-par z desde 1 hasta 5 hacer {
-  imprimir("bucle for mal indicado, dice 'par' ");
-  salir;
-}
