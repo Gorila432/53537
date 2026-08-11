@@ -1,4 +1,0 @@
-para x desde 1 hasta 5 hacer {
-  imprimir("Hola, Mundo!");
-  salir;
-}
